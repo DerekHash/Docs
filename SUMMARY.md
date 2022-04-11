@@ -49,13 +49,9 @@
     * [🦊 Supported Wallets](usdapi-token-info/get-usdapi-token/buy-usdapi-token/supported-wallets.md)
     * [🏦 Exchanges](usdapi-token-info/get-usdapi-token/buy-usdapi-token/exchanges.md)
 
-## Contact us
+## 🤝 Get In Touch
 
-* [Social Media ](contact-us/social-media/README.md)
-  * [Discord](http://dsc.gg/theapis)
-  * [Twitter](https://twitter.com/TheAPIS\_xyz)
-  * [Medium](https://theapisxyz.medium.com)
-  * [Linktr.ee](https://linktr.ee/The\_APIS)
+* [Contact Us](get-in-touch/contact-us.md)
 
 ## Docs
 
