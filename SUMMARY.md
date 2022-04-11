@@ -44,10 +44,8 @@
   * [Dune Analysis](usdapi-token-info/overview/dune-analysis.md)
   * [Investors](usdapi-token-info/overview/investors.md)
   * [🅰 API Token Economics](usdapi-token-info/overview/api-token-economics.md)
-* [Get $API Token](usdapi-token-info/get-usdapi-token/README.md)
-  * [Buy $API Token](usdapi-token-info/get-usdapi-token/buy-usdapi-token/README.md)
-    * [🦊 Supported Wallets](usdapi-token-info/get-usdapi-token/buy-usdapi-token/supported-wallets.md)
-    * [🏦 Exchanges](usdapi-token-info/get-usdapi-token/buy-usdapi-token/exchanges.md)
+* [📈 Get $API Token](usdapi-token-info/get-usdapi-token.md)
+* [Listed Exchanges](usdapi-token-info/listed-exchanges.md)
 
 ## 🤝 Get In Touch
 

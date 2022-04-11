@@ -1,4 +1,12 @@
-# 🦊 Supported Wallets
+---
+description: >-
+  $API token is the native token of The APIS, built based on Ethereum Chain's
+  ERC-20 standard, with a fixed total supply of 1 billion.
+---
+
+# 📈 Get $API Token
+
+### Supported Wallets
 
 ​[**MetaMask**](https://metamask.io)**​**
 
@@ -22,12 +30,7 @@
 
 **​**[**imToken** ](https://token.im/download)**​**
 
-**​**[**SafePal**](https://safepal.io)**​**
+**​**[**SafePal**](https://safepal.io)****
 
+****
 
-
-​
-
-
-
-L
