@@ -45,7 +45,7 @@
   * [Investors](usdapi-token-info/overview/investors.md)
   * [🅰 API Token Economics](usdapi-token-info/overview/api-token-economics.md)
 * [📈 Get $API Token](usdapi-token-info/get-usdapi-token.md)
-* [Listed Exchanges](usdapi-token-info/listed-exchanges.md)
+* [💸 Listed Exchanges](usdapi-token-info/listed-exchanges.md)
 
 ## 🤝 Get In Touch
 
