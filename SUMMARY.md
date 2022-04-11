@@ -12,7 +12,7 @@
 
 ## 🍦 Products
 
-* [Hook](products/hook/README.md)
+* [🔍 Hook](products/hook/README.md)
   * [Features](products/hook/features/README.md)
     * [Collections Trending](products/hook/features/collections-trending.md)
     * [Calendar](products/hook/features/calendar.md)
