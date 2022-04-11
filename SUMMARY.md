@@ -1,11 +1,13 @@
 # Table of contents
 
-* [☺ Introduction](README.md)
-* [About](about/README.md)
-  * [Our Backers](about/our-backers.md)
-  * [Our Partners](about/our-partners.md)
-  * [Core Team](about/core-team/README.md)
-    * [Join Us](about/core-team/join-us.md)
+* [☺ Get Started](README.md)
+* [About The APIS](about-the-apis/README.md)
+  * [Introduction](about-the-apis/introduction.md)
+  * [Network Overivew](about-the-apis/network-overivew.md)
+  * [Our Backers](about-the-apis/our-backers.md)
+  * [Our Partners](about-the-apis/our-partners.md)
+  * [Core Team](about-the-apis/core-team/README.md)
+    * [Join Us](about-the-apis/core-team/join-us.md)
 * [Token metrics](token-metrics/README.md)
   * [💎 API Token Economics](token-metrics/api-token-economics.md)
   * [🧾 API Token Smart Contract](token-metrics/api-token-smart-contract.md)
@@ -25,23 +27,33 @@
     * [Transaction Feed](products/hook/features/transaction-feed.md)
     * [Wallet Analysis](products/hook/features/wallet-analysis.md)
     * [Watch List](products/hook/features/watch-list.md)
-* [Information syndication protocol](products/information-syndication-protocol/README.md)
-  * [Intro](products/information-syndication-protocol/intro.md)
-* [Page 1](products/page-1.md)
+* [RSS](products/rss/README.md)
+  * [Intro](products/rss/intro.md)
+* [API Playground](products/api-playground.md)
 
-## SERVICE
+## Guide
 
-* [FAQs](service/faqs/README.md)
-  * [What is API?](service/faqs/what-is-api.md)
-  * [How do APIs work?](service/faqs/how-do-apis-work.md)
-  * [What is the API token?](service/faqs/what-is-the-api-token.md)
-  * [How many API tokens are there in circulation?](service/faqs/how-many-api-tokens-are-there-in-circulation.md)
-  * [Why does API stand out?](service/faqs/why-does-api-stand-out.md)
-  * [What does API mean for the crypto industry?](service/faqs/what-does-api-mean-for-the-crypto-industry.md)
+* [FAQs](guide/faqs/README.md)
+  * [What is API?](guide/faqs/what-is-api.md)
+  * [How do APIs work?](guide/faqs/how-do-apis-work.md)
+  * [What is the API token?](guide/faqs/what-is-the-api-token.md)
+  * [How many API tokens are there in circulation?](guide/faqs/how-many-api-tokens-are-there-in-circulation.md)
+  * [Why does API stand out?](guide/faqs/why-does-api-stand-out.md)
+  * [What does API mean for the crypto industry?](guide/faqs/what-does-api-mean-for-the-crypto-industry.md)
+
+## $API Token Info
+
+* [Overview](usdapi-token-info/overview/README.md)
+  * [Smart Contract Address](usdapi-token-info/overview/smart-contract-address.md)
+  * [Token Metrics](usdapi-token-info/overview/token-metrics.md)
+  * [Token TGE](usdapi-token-info/overview/token-tge.md)
+  * [Exchanges](usdapi-token-info/overview/exchanges.md)
+  * [Dune Analysis](usdapi-token-info/overview/dune-analysis.md)
+  * [Investors](usdapi-token-info/overview/investors.md)
 
 ## Contact us
 
-* [Social Media Link](contact-us/social-media-link/README.md)
+* [Social Media ](contact-us/social-media/README.md)
   * [Discord](http://dsc.gg/theapis)
   * [Twitter](https://twitter.com/TheAPIS\_xyz)
   * [Medium](https://theapisxyz.medium.com)
@@ -49,5 +61,6 @@
 
 ## Docs
 
+* [🔐 Security](docs/security.md)
 * [White Paper](docs/white-paper.md)
 * [Definitions & Terms](docs/definitions-and-terms.md)
