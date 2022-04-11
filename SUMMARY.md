@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [☺ Introduction](README.md)
 * [About](about/README.md)
   * [Our Backers](about/our-backers.md)
   * [Our Partners](about/our-partners.md)
@@ -15,19 +15,19 @@
     * [🏦 Exchanges](token-metrics/buy-api-token/exchanges.md)
 * [Roadmap](roadmap.md)
 
-## Product
+## 🍦 Products
 
-* [Hook](product/hook/README.md)
-  * [Features](product/hook/features/README.md)
-    * [Collections Trending](product/hook/features/collections-trending.md)
-    * [Calendar](product/hook/features/calendar.md)
-    * [Forum](product/hook/features/forum.md)
-    * [Transaction Feed](product/hook/features/transaction-feed.md)
-    * [Wallet Analysis](product/hook/features/wallet-analysis.md)
-    * [Watch List](product/hook/features/watch-list.md)
-* [Information syndication protocol](product/information-syndication-protocol/README.md)
-  * [Intro](product/information-syndication-protocol/intro.md)
-* [Page 1](product/page-1.md)
+* [Hook](products/hook/README.md)
+  * [Features](products/hook/features/README.md)
+    * [Collections Trending](products/hook/features/collections-trending.md)
+    * [Calendar](products/hook/features/calendar.md)
+    * [Forum](products/hook/features/forum.md)
+    * [Transaction Feed](products/hook/features/transaction-feed.md)
+    * [Wallet Analysis](products/hook/features/wallet-analysis.md)
+    * [Watch List](products/hook/features/watch-list.md)
+* [Information syndication protocol](products/information-syndication-protocol/README.md)
+  * [Intro](products/information-syndication-protocol/intro.md)
+* [Page 1](products/page-1.md)
 
 ## SERVICE
 
