@@ -1,20 +1,13 @@
 # Table of contents
 
 * [☺ Get Started](README.md)
-* [About The APIS](about-the-apis/README.md)
+* [💡 About The APIS](about-the-apis/README.md)
   * [Introduction](about-the-apis/introduction.md)
   * [Network Overivew](about-the-apis/network-overivew.md)
   * [Our Backers](about-the-apis/our-backers.md)
   * [Our Partners](about-the-apis/our-partners.md)
   * [Core Team](about-the-apis/core-team/README.md)
     * [Join Us](about-the-apis/core-team/join-us.md)
-* [Token metrics](token-metrics/README.md)
-  * [💎 API Token Economics](token-metrics/api-token-economics.md)
-  * [🧾 API Token Smart Contract](token-metrics/api-token-smart-contract.md)
-  * [📄 Security Report](token-metrics/security-report.md)
-  * [Buy API Token](token-metrics/buy-api-token/README.md)
-    * [🦊 3rd-Party Wallets](token-metrics/buy-api-token/3rd-party-wallets.md)
-    * [🏦 Exchanges](token-metrics/buy-api-token/exchanges.md)
 * [Roadmap](roadmap.md)
 
 ## 🍦 Products
@@ -50,6 +43,13 @@
   * [Exchanges](usdapi-token-info/overview/exchanges.md)
   * [Dune Analysis](usdapi-token-info/overview/dune-analysis.md)
   * [Investors](usdapi-token-info/overview/investors.md)
+* [Token metrics](usdapi-token-info/token-metrics/README.md)
+  * [💎 API Token Economics](usdapi-token-info/token-metrics/api-token-economics.md)
+  * [🧾 API Token Smart Contract](usdapi-token-info/token-metrics/api-token-smart-contract.md)
+  * [📄 Security Report](usdapi-token-info/token-metrics/security-report.md)
+  * [Buy API Token](usdapi-token-info/token-metrics/buy-api-token/README.md)
+    * [🦊 3rd-Party Wallets](usdapi-token-info/token-metrics/buy-api-token/3rd-party-wallets.md)
+    * [🏦 Exchanges](usdapi-token-info/token-metrics/buy-api-token/exchanges.md)
 
 ## Contact us
 

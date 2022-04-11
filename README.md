@@ -5,7 +5,7 @@ description: >-
   decentralized world.
 ---
 
-# ☺ Introduction
+# ☺ Get Started
 
 ## Getting Started
 
@@ -89,14 +89,14 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [white-paper.md](docs/white-paper.md)
 {% endcontent-ref %}
 
-{% content-ref url="token-metrics/api-token-smart-contract.md" %}
-[api-token-smart-contract.md](token-metrics/api-token-smart-contract.md)
+{% content-ref url="usdapi-token-info/token-metrics/api-token-smart-contract.md" %}
+[api-token-smart-contract.md](usdapi-token-info/token-metrics/api-token-smart-contract.md)
 {% endcontent-ref %}
 
-{% content-ref url="token-metrics/api-token-economics.md" %}
-[api-token-economics.md](token-metrics/api-token-economics.md)
+{% content-ref url="usdapi-token-info/token-metrics/api-token-economics.md" %}
+[api-token-economics.md](usdapi-token-info/token-metrics/api-token-economics.md)
 {% endcontent-ref %}
 
-{% content-ref url="token-metrics/security-report.md" %}
-[security-report.md](token-metrics/security-report.md)
+{% content-ref url="usdapi-token-info/token-metrics/security-report.md" %}
+[security-report.md](usdapi-token-info/token-metrics/security-report.md)
 {% endcontent-ref %}
