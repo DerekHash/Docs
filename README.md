@@ -89,14 +89,14 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [white-paper.md](docs/white-paper.md)
 {% endcontent-ref %}
 
-{% content-ref url="usdapi-token-info/token-metrics/api-token-smart-contract.md" %}
-[api-token-smart-contract.md](usdapi-token-info/token-metrics/api-token-smart-contract.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="usdapi-token-info/token-metrics/api-token-economics.md" %}
-[api-token-economics.md](usdapi-token-info/token-metrics/api-token-economics.md)
+{% content-ref url="usdapi-token-info/overview/api-token-economics.md" %}
+[api-token-economics.md](usdapi-token-info/overview/api-token-economics.md)
 {% endcontent-ref %}
 
-{% content-ref url="usdapi-token-info/token-metrics/security-report.md" %}
-[security-report.md](usdapi-token-info/token-metrics/security-report.md)
+{% content-ref url="docs/security/security-report.md" %}
+[security-report.md](docs/security/security-report.md)
 {% endcontent-ref %}

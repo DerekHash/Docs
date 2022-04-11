@@ -1,4 +1,4 @@
-# 🦊 3rd-Party Wallets
+# 🦊 Supported Wallets
 
 ​[**MetaMask**](https://metamask.io)**​**
 
@@ -24,7 +24,7 @@
 
 **​**[**SafePal**](https://safepal.io)**​**
 
-**​**[**X Wallet**](https://docs.xwg.games/tools/x-wallet)
+
 
 ​
 

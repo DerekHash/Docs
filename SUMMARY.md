@@ -36,20 +36,18 @@
 
 ## $API Token Info
 
-* [Overview](usdapi-token-info/overview/README.md)
+* [🅰 Overview](usdapi-token-info/overview/README.md)
   * [Smart Contract Address](usdapi-token-info/overview/smart-contract-address.md)
   * [Token Metrics](usdapi-token-info/overview/token-metrics.md)
   * [Token TGE](usdapi-token-info/overview/token-tge.md)
   * [Exchanges](usdapi-token-info/overview/exchanges.md)
   * [Dune Analysis](usdapi-token-info/overview/dune-analysis.md)
   * [Investors](usdapi-token-info/overview/investors.md)
-* [Token metrics](usdapi-token-info/token-metrics/README.md)
-  * [💎 API Token Economics](usdapi-token-info/token-metrics/api-token-economics.md)
-  * [🧾 API Token Smart Contract](usdapi-token-info/token-metrics/api-token-smart-contract.md)
-  * [📄 Security Report](usdapi-token-info/token-metrics/security-report.md)
-  * [Buy API Token](usdapi-token-info/token-metrics/buy-api-token/README.md)
-    * [🦊 3rd-Party Wallets](usdapi-token-info/token-metrics/buy-api-token/3rd-party-wallets.md)
-    * [🏦 Exchanges](usdapi-token-info/token-metrics/buy-api-token/exchanges.md)
+  * [🅰 API Token Economics](usdapi-token-info/overview/api-token-economics.md)
+* [Get $API Token](usdapi-token-info/get-usdapi-token/README.md)
+  * [Buy $API Token](usdapi-token-info/get-usdapi-token/buy-usdapi-token/README.md)
+    * [🦊 Supported Wallets](usdapi-token-info/get-usdapi-token/buy-usdapi-token/supported-wallets.md)
+    * [🏦 Exchanges](usdapi-token-info/get-usdapi-token/buy-usdapi-token/exchanges.md)
 
 ## Contact us
 
@@ -61,6 +59,7 @@
 
 ## Docs
 
-* [🔐 Security](docs/security.md)
+* [🔐 Security](docs/security/README.md)
+  * [📄 Security Report](docs/security/security-report.md)
 * [White Paper](docs/white-paper.md)
 * [Definitions & Terms](docs/definitions-and-terms.md)
