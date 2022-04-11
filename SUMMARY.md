@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The APIS](README.md)
+* [Introduction](README.md)
 * [About](about/README.md)
   * [Our Backers](about/our-backers.md)
   * [Our Partners](about/our-partners.md)
