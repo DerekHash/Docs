@@ -49,7 +49,7 @@
 
 ## 🤝 Get In Touch
 
-* [Contact Us](get-in-touch/contact-us.md)
+* [🥰 Contact Us](get-in-touch/contact-us.md)
 
 ## Docs
 
