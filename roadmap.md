@@ -5,7 +5,7 @@ description: >-
   decentralized world.
 ---
 
-# Roadmap
+# 🤖 Roadmap
 
 ![](<.gitbook/assets/ROADMAP Q1.jpg>)
 

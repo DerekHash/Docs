@@ -1,14 +1,14 @@
 # Table of contents
 
 * [☺ Get Started](README.md)
-* [💡 About The APIS](about-the-apis/README.md)
+* [↔ About The APIS](about-the-apis/README.md)
   * [Introduction](about-the-apis/introduction.md)
   * [Network Overivew](about-the-apis/network-overivew.md)
   * [Our Backers](about-the-apis/our-backers.md)
   * [Our Partners](about-the-apis/our-partners.md)
   * [Core Team](about-the-apis/core-team/README.md)
     * [Join Us](about-the-apis/core-team/join-us.md)
-* [Roadmap](roadmap.md)
+* [🤖 Roadmap](roadmap.md)
 
 ## 🍦 Products
 
@@ -24,11 +24,11 @@
   * [Intro](products/rss/intro.md)
 * [API Playground](products/api-playground.md)
 
-## Guide
+## 🤓 Guide
 
 * [Definitions & Terms](guide/definitions-and-terms.md)
 
-## $API Token Info
+## ℹ $API Token Info
 
 * [🅰 Overview](usdapi-token-info/overview/README.md)
   * [Smart Contract Address](usdapi-token-info/overview/smart-contract-address.md)
@@ -46,17 +46,18 @@
     * [Why does API stand out?](usdapi-token-info/overview/faqs/why-does-api-stand-out.md)
     * [What does API mean for the crypto industry?](usdapi-token-info/overview/faqs/what-does-api-mean-for-the-crypto-industry.md)
 * [📈 Get $API Token](usdapi-token-info/get-usdapi-token.md)
-* [💸 Listed Exchanges](usdapi-token-info/listed-exchanges.md)
+* [⬆ Listed Exchanges](usdapi-token-info/listed-exchanges.md)
 
 ## 🤝 Get In Touch
 
 * [🥰 Contact Us](get-in-touch/contact-us.md)
 
-## Docs
+## 📖 Docs
 
 * [🔐 Security](docs/security/README.md)
   * [📄 Security Report](docs/security/security-report.md)
-* [👀 White Paper](docs/white-paper.md)
+* [📄 Terms & Conditions](docs/terms-and-conditions.md)
+* [ℹ Disclaimer](docs/disclaimer.md)
 
 ## 📃 Whitepaper
 

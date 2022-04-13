@@ -1,4 +1,4 @@
-# 💸 Listed Exchanges
+# ⬆ Listed Exchanges
 
 DEX
 

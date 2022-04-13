@@ -85,8 +85,8 @@ On the **Watch  List** page, you can create lists of NFT collections or wallets 
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="docs/white-paper.md" %}
-[white-paper.md](docs/white-paper.md)
+{% content-ref url="docs/terms-and-conditions.md" %}
+[terms-and-conditions.md](docs/terms-and-conditions.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
