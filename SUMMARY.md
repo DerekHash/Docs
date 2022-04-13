@@ -26,13 +26,7 @@
 
 ## Guide
 
-* [FAQs](guide/faqs/README.md)
-  * [What is API?](guide/faqs/what-is-api.md)
-  * [How do APIs work?](guide/faqs/how-do-apis-work.md)
-  * [What is the API token?](guide/faqs/what-is-the-api-token.md)
-  * [How many API tokens are there in circulation?](guide/faqs/how-many-api-tokens-are-there-in-circulation.md)
-  * [Why does API stand out?](guide/faqs/why-does-api-stand-out.md)
-  * [What does API mean for the crypto industry?](guide/faqs/what-does-api-mean-for-the-crypto-industry.md)
+* [Definitions & Terms](guide/definitions-and-terms.md)
 
 ## $API Token Info
 
@@ -44,6 +38,13 @@
   * [Dune Analysis](usdapi-token-info/overview/dune-analysis.md)
   * [Investors](usdapi-token-info/overview/investors.md)
   * [🅰 API Token Economics](usdapi-token-info/overview/api-token-economics.md)
+  * [FAQs](usdapi-token-info/overview/faqs/README.md)
+    * [What is API?](usdapi-token-info/overview/faqs/what-is-api.md)
+    * [How do APIs work?](usdapi-token-info/overview/faqs/how-do-apis-work.md)
+    * [What is the API token?](usdapi-token-info/overview/faqs/what-is-the-api-token.md)
+    * [How many API tokens are there in circulation?](usdapi-token-info/overview/faqs/how-many-api-tokens-are-there-in-circulation.md)
+    * [Why does API stand out?](usdapi-token-info/overview/faqs/why-does-api-stand-out.md)
+    * [What does API mean for the crypto industry?](usdapi-token-info/overview/faqs/what-does-api-mean-for-the-crypto-industry.md)
 * [📈 Get $API Token](usdapi-token-info/get-usdapi-token.md)
 * [💸 Listed Exchanges](usdapi-token-info/listed-exchanges.md)
 
@@ -55,5 +56,8 @@
 
 * [🔐 Security](docs/security/README.md)
   * [📄 Security Report](docs/security/security-report.md)
-* [White Paper](docs/white-paper.md)
-* [Definitions & Terms](docs/definitions-and-terms.md)
+* [👀 White Paper](docs/white-paper.md)
+
+## Whitepaper
+
+* [1](whitepaper/1.md)

@@ -1,4 +1,4 @@
-# Contact Us
+# 🥰 Contact Us
 
 Feel free to post your queries on any of our communication channels below:
 
