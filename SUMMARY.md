@@ -61,9 +61,10 @@
 
 ## 📃 Whitepaper
 
-* [1⃣ Background](whitepaper/background.md)
-* [2⃣ Architecture](whitepaper/architecture.md)
-* [3⃣ Applications](whitepaper/applications.md)
-* [4⃣ Discussion](whitepaper/discussion.md)
-* [5⃣ Appendix](whitepaper/appendix.md)
-* [6⃣ Bibliography](whitepaper/bibliography.md)
+* [Whitepaper](whitepaper/whitepaper/README.md)
+  * [1⃣ Background](whitepaper/whitepaper/background.md)
+  * [2⃣ Architecture](whitepaper/whitepaper/architecture.md)
+  * [4⃣ Discussion](whitepaper/whitepaper/discussion.md)
+  * [3⃣ Applications](whitepaper/whitepaper/applications.md)
+  * [5⃣ Appendix](whitepaper/whitepaper/appendix.md)
+  * [6⃣ Bibliography](whitepaper/whitepaper/bibliography.md)
