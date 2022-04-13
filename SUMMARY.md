@@ -62,7 +62,8 @@
 ## 📃 Whitepaper
 
 * [Whitepaper](whitepaper/whitepaper/README.md)
-  * [1⃣ Background](whitepaper/whitepaper/background.md)
+  * [1⃣ Background](whitepaper/whitepaper/background/README.md)
+    * [Introduction](whitepaper/whitepaper/background/introduction.md)
   * [2⃣ Architecture](whitepaper/whitepaper/architecture.md)
   * [4⃣ Discussion](whitepaper/whitepaper/discussion.md)
   * [3⃣ Applications](whitepaper/whitepaper/applications.md)
