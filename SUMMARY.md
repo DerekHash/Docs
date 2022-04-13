@@ -58,6 +58,11 @@
   * [📄 Security Report](docs/security/security-report.md)
 * [👀 White Paper](docs/white-paper.md)
 
-## Whitepaper
+## 📃 Whitepaper
 
-* [1](whitepaper/1.md)
+* [1⃣ Background](whitepaper/background.md)
+* [2⃣ Architecture](whitepaper/architecture.md)
+* [3⃣ Applications](whitepaper/applications.md)
+* [4⃣ Discussion](whitepaper/discussion.md)
+* [5⃣ Appendix](whitepaper/appendix.md)
+* [6⃣ Bibliography](whitepaper/bibliography.md)
