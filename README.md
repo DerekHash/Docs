@@ -93,8 +93,8 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="usdapi-token-info/overview/api-token-economics.md" %}
-[api-token-economics.md](usdapi-token-info/overview/api-token-economics.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="docs/security/security-report.md" %}
