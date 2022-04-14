@@ -62,6 +62,7 @@
 
 * [Whitepaper](whitepaper/whitepaper/README.md)
   * [1⃣ Background](whitepaper/whitepaper/background/README.md)
+    * [1.1 Background](whitepaper/whitepaper/background/1.1-background.md)
     * [Introduction](whitepaper/whitepaper/background/introduction.md)
   * [2⃣ Architecture](whitepaper/whitepaper/architecture/README.md)
     * [Message Propagation Protocol](whitepaper/whitepaper/architecture/message-propagation-protocol.md)
