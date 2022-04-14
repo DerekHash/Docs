@@ -7,7 +7,7 @@ The API Token is the native token of The APIS protocol, deriving its utility fro
 * Staking by Optimistic or Zk-Rollup validators: We anticipate this feature will be in place within a year, and;
 * Governance: Numerous ways to decide on new APIS contracts and upgrades through a voting system.
 
-> Our New Token Address:
+> Our API Token Address:
 >
 > https://etherscan.io/token/0xfd4168e642ebd04c3684a6cdb3a5e86de85d3908
 
