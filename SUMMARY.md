@@ -34,7 +34,6 @@
   * [Smart Contract Address](usdapi-token-info/usdapi-token-economics/smart-contract-address.md)
   * [Token Utilities](usdapi-token-info/usdapi-token-economics/token-utilities.md)
   * [Token Distribution](usdapi-token-info/usdapi-token-economics/token-distribution.md)
-  * [Listed Exchanges](usdapi-token-info/usdapi-token-economics/listed-exchanges.md)
   * [Dune Analysis](usdapi-token-info/usdapi-token-economics/dune-analysis.md)
   * [Investors](usdapi-token-info/usdapi-token-economics/investors.md)
   * [FAQs](usdapi-token-info/usdapi-token-economics/faqs/README.md)
