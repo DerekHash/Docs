@@ -97,6 +97,6 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="docs/security/security-report.md" %}
-[security-report.md](docs/security/security-report.md)
+{% content-ref url="docs/security/security-report-by-certik.md" %}
+[security-report-by-certik.md](docs/security/security-report-by-certik.md)
 {% endcontent-ref %}

@@ -52,7 +52,7 @@
 ## 📖 Docs
 
 * [🔐 Security](docs/security/README.md)
-  * [📄 Security Report](docs/security/security-report.md)
+  * [📄 Security Report by Certik](docs/security/security-report-by-certik.md)
 * [📄 Terms & Conditions](docs/terms-and-conditions.md)
 * [ℹ Disclaimer](docs/disclaimer.md)
 
