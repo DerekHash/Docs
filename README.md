@@ -7,17 +7,17 @@ description: >-
 
 # ☺ Hello, Web3!
 
-> ### _Question:_&#x20;
+> _Question:_&#x20;
 >
-> ### _Could you explain Web3 to a 5-year-old?"_
+> _Could you explain Web3 to a 5-year-old?"_
 >
 >
 >
-> ### _The answer:_&#x20;
+> _The answer:_&#x20;
 >
-> ### _Web1 -> Web2 -> Web3 = Read-Only -> Read-Write -> Read-Write-Own_
+> _Web1 -> Web2 -> Web3 = Read-Only -> Read-Write -> Read-Write-Own_
 >
-> ### _by_ [_Chris Dixon_](https://twitter.com/cdixon) _@ a16z_
+> _by_ [_Chris Dixon_](https://twitter.com/cdixon) _@ a16z_
 
 
 
