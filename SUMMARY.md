@@ -3,9 +3,8 @@
 * [☺ Hello, Web3!](README.md)
 * [↔ About The APIS](about-the-apis/README.md)
   * [Introduction](about-the-apis/introduction.md)
-  * [Our Investors](about-the-apis/our-backers.md)
-  * [Our Partners](about-the-apis/our-partners.md)
   * [Core Team](about-the-apis/core-team.md)
+  * [Our Partners](about-the-apis/our-partners.md)
 * [🤖 Roadmap](roadmap.md)
 
 ## 🍦 Products
