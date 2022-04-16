@@ -2,7 +2,7 @@
 
 ![](<../../.gitbook/assets/截屏2022-03-23 下午12.43.00.png>)
 
-### Andrew Bakst
+### [Andrew Bakst](https://twitter.com/andrew\_bakst)
 
 **Co-Founder,**&#x20;
 
@@ -11,7 +11,7 @@
 
 ![](<../../.gitbook/assets/截屏2022-03-23 下午12.44.15.png>)
 
-### Maximilian Jungreis
+### [Maximilian Jungreis](https://twitter.com/MaxWolf\_\_)
 
 * Early blockchain pioneer with partnerships and marketing experience scaling startups from ideation to exit.&#x20;
 * Currently investing in Crypto startups.
