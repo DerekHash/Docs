@@ -5,11 +5,19 @@ description: >-
   decentralized world.
 ---
 
-# ☺ Get Started
+# ☺ Hello, Web3!
 
-## Getting Started
-
-The APIS provides extensive data analytics for digital assets across all public blockchains, both layer-one and layer-two scaling solutions. Deep dive into your own data, presented through customized graphics and interfaces. Uncover publicly available data, deciphering trends to facilitate your decision-making and to keep you ahead of the market.
+> ### Question:&#x20;
+>
+> ### Could you explain web3 to a 5-year-old?"
+>
+>
+>
+> ### The answer:&#x20;
+>
+> ### Web1 -> Web2 -> Web3 = Read-Only -> Read-Write -> Read-Write-Own
+>
+> ### _by_ [_Chris Dixon_](https://twitter.com/cdixon) _@ a16z_
 
 
 
@@ -23,8 +31,8 @@ We sync our data directly from the blockchain, polling every second for the late
 
 Our [**Trending**](https://beta.theapis.xyz/#/trending) page will keep you up to date with the top selling collections.
 
-{% content-ref url="products/hook/features/collections-trending.md" %}
-[collections-trending.md](products/hook/features/collections-trending.md)
+{% content-ref url="products/hook/get-started/collections-trending.md" %}
+[collections-trending.md](products/hook/get-started/collections-trending.md)
 {% endcontent-ref %}
 
 
@@ -33,8 +41,8 @@ Our [**Trending**](https://beta.theapis.xyz/#/trending) page will keep you up to
 
 Create your own unique drop calendar and never miss an NFT drop from your favorite creators. Add customized alerts to receive reminders to minutes, hours, or days before.
 
-{% content-ref url="products/hook/features/calendar.md" %}
-[calendar.md](products/hook/features/calendar.md)
+{% content-ref url="products/hook/get-started/calendar.md" %}
+[calendar.md](products/hook/get-started/calendar.md)
 {% endcontent-ref %}
 
 
@@ -51,8 +59,8 @@ Create your own unique drop calendar and never miss an NFT drop from your favori
 
 Throughout the site, we provide users with easily readable, live feeds of mints, orders, and transfers.
 
-{% content-ref url="products/hook/features/transaction-feed.md" %}
-[transaction-feed.md](products/hook/features/transaction-feed.md)
+{% content-ref url="products/hook/get-started/transaction-feed.md" %}
+[transaction-feed.md](products/hook/get-started/transaction-feed.md)
 {% endcontent-ref %}
 
 
@@ -61,8 +69,8 @@ Throughout the site, we provide users with easily readable, live feeds of mints,
 
 You can view ERC721 mint and order history going back years for any wallet.
 
-{% content-ref url="products/hook/features/wallet-analysis.md" %}
-[wallet-analysis.md](products/hook/features/wallet-analysis.md)
+{% content-ref url="products/hook/get-started/wallet-analysis.md" %}
+[wallet-analysis.md](products/hook/get-started/wallet-analysis.md)
 {% endcontent-ref %}
 
 
@@ -71,8 +79,8 @@ You can view ERC721 mint and order history going back years for any wallet.
 
 On the **Watch  List** page, you can create lists of NFT collections or wallets that you want to track  all updating in real-time. It's like TradingView for NFTs!
 
-{% content-ref url="products/hook/features/watch-list.md" %}
-[watch-list.md](products/hook/features/watch-list.md)
+{% content-ref url="products/hook/get-started/watch-list.md" %}
+[watch-list.md](products/hook/get-started/watch-list.md)
 {% endcontent-ref %}
 
 
