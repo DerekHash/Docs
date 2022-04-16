@@ -3,7 +3,7 @@
 * [☺ Get Started](README.md)
 * [↔ About The APIS](about-the-apis/README.md)
   * [Introduction](about-the-apis/introduction.md)
-  * [Our Investors](about-the-apis/our-investors.md)
+  * [Our Investors](about-the-apis/our-backers.md)
   * [Our Partners](about-the-apis/our-partners.md)
   * [Core Team](about-the-apis/core-team/README.md)
     * [Join Us](about-the-apis/core-team/join-us.md)
@@ -21,7 +21,7 @@
   * [Forum](products/hook/features/forum.md)
 * [RSS](products/rss/README.md)
   * [Intro](products/rss/intro.md)
-* [☁ API Playground](products/api-playground.md)
+* [☁ DataLake](products/datalake.md)
 
 ## 🤓 Academy
 
