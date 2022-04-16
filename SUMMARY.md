@@ -5,8 +5,7 @@
   * [Introduction](about-the-apis/introduction.md)
   * [Our Investors](about-the-apis/our-backers.md)
   * [Our Partners](about-the-apis/our-partners.md)
-  * [Core Team](about-the-apis/core-team/README.md)
-    * [Join Us](about-the-apis/core-team/join-us.md)
+  * [Core Team](about-the-apis/core-team.md)
 * [🤖 Roadmap](roadmap.md)
 
 ## 🍦 Products
@@ -50,6 +49,7 @@
 ## 🤝 Get In Touch
 
 * [🥰 Contact Us](get-in-touch/contact-us.md)
+* [🥰 Join Us](get-in-touch/join-us.md)
 * [❓ FAQ](get-in-touch/faq.md)
 
 ## 📖 Docs
