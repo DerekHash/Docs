@@ -7,9 +7,9 @@ description: >-
 
 # 🤖 Roadmap
 
-![](<.gitbook/assets/ROADMAP Q1.jpg>)
+![Roadmap 2022](.gitbook/assets/roadmap.jpg)
 
-![](.gitbook/assets/roadmap.jpg)
+
 
 | Date    | Objectives                                                                 | Status        |
 | ------- | -------------------------------------------------------------------------- | ------------- |
