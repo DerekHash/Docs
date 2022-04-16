@@ -12,12 +12,12 @@
 ## 🍦 Products
 
 * [🔍 Hook](products/hook/README.md)
-  * [Get Started](products/hook/get-started/README.md)
-    * [Calendar](products/hook/get-started/calendar.md)
-    * [Transaction Feed](products/hook/get-started/transaction-feed.md)
-    * [Wallet Analysis](products/hook/get-started/wallet-analysis.md)
-    * [Watch List](products/hook/get-started/watch-list.md)
-    * [Collections Trending](products/hook/get-started/collections-trending.md)
+  * [Get Started](products/hook/features/README.md)
+    * [Calendar](products/hook/features/calendar.md)
+    * [Transaction Feed](products/hook/features/transaction-feed.md)
+    * [Wallet Analysis](products/hook/features/wallet-analysis.md)
+    * [Watch List](products/hook/features/watch-list.md)
+    * [Collections Trending](products/hook/features/collections-trending.md)
   * [Forum](products/hook/features/forum.md)
 * [RSS](products/rss/README.md)
   * [Intro](products/rss/intro.md)
