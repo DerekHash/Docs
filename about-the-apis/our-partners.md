@@ -8,6 +8,6 @@
 * CoinMarketcap&#x20;
 * NFTGo
 * NFTbank&#x20;
-* FootPrint
+* Footprint Analytics
 * Dune Analysis&#x20;
-* Dream Bimbos&#x20;
+* Dream Card Bimbos&#x20;
