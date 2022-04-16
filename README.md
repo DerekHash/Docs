@@ -9,7 +9,7 @@ description: >-
 
 > ### Question:&#x20;
 >
-> ### Could you explain web3 to a 5-year-old?"
+> ### Could you explain Web3 to a 5-year-old?"
 >
 >
 >

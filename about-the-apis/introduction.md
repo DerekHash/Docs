@@ -1,6 +1,6 @@
 # Introduction
 
-TheAPIS is Indexing protocol for reading and writing to open networks.Making APIs open and accessible to read on-chain data analysis to empower the decentralized world.
+The APIS Protocol is a decentralized reading and writing platform designed to allow decentralized applications to function at a global scale.
 
 ### Our Products:
 
