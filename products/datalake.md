@@ -22,4 +22,4 @@ The data lake needs to have a complete data lifecycle management capability. Not
 
 The data lake needs to have perfect data acquisition and data distribution capabilities. The data lake needs to be able to support a variety of data sources and obtain full/incremental data from relevant data sources; then standardize the storage. The data lake can push the results of data analysis and processing to the appropriate storage engine to meet different application access requirements.&#x20;
 
-For big data support, including ultra-large-scale storage and scalable large-scale data processing capabilities.
+For multichain data support, including ultra-large-scale storage and scalable large-scale multichaindata processing capabilities.
