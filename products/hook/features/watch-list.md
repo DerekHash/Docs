@@ -1,5 +1,6 @@
 # Watch List
 
-{% hint style="info" %}
-This section is under development, soon will be released. Please us on [social media](../../../get-in-touch/contact-us.md) for the latest information.
-{% endhint %}
+
+
+Watchlist is your own place for favorites project, the collection bar, only your choice project will be shown in table to watch
+
