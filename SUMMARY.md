@@ -13,13 +13,13 @@
 ## 🍦 Products
 
 * [🔍 Hook](products/hook/README.md)
-  * [Product Features](products/hook/product-features/README.md)
-    * [Calendar](products/hook/product-features/calendar.md)
-    * [Forum](products/hook/product-features/forum.md)
-    * [Transaction Feed](products/hook/product-features/transaction-feed.md)
-    * [Wallet Analysis](products/hook/product-features/wallet-analysis.md)
-    * [Watch List](products/hook/product-features/watch-list.md)
-    * [Collections Trending](products/hook/product-features/collections-trending.md)
+  * [Introduction](products/hook/introduction/README.md)
+    * [Calendar](products/hook/introduction/calendar.md)
+    * [Transaction Feed](products/hook/introduction/transaction-feed.md)
+    * [Wallet Analysis](products/hook/introduction/wallet-analysis.md)
+    * [Watch List](products/hook/introduction/watch-list.md)
+    * [Collections Trending](products/hook/introduction/collections-trending.md)
+  * [Forum](products/hook/forum.md)
 * [RSS](products/rss/README.md)
   * [Intro](products/rss/intro.md)
 * [API Playground](products/api-playground.md)
@@ -33,25 +33,25 @@
 
 ## ℹ $API Token Info
 
-* [🅰 $API Token Economics](usdapi-token-info/usdapi-token-economics/README.md)
-  * [Smart Contract Address](usdapi-token-info/usdapi-token-economics/smart-contract-address.md)
-  * [Token Utilities](usdapi-token-info/usdapi-token-economics/token-utilities.md)
-  * [Token Distribution](usdapi-token-info/usdapi-token-economics/token-distribution.md)
-  * [Dune Analysis](usdapi-token-info/usdapi-token-economics/dune-analysis.md)
-  * [Investors](usdapi-token-info/usdapi-token-economics/investors.md)
-  * [FAQs](usdapi-token-info/usdapi-token-economics/faqs/README.md)
-    * [What is API?](usdapi-token-info/usdapi-token-economics/faqs/what-is-api.md)
-    * [How do APIs work?](usdapi-token-info/usdapi-token-economics/faqs/how-do-apis-work.md)
-    * [What is the API token?](usdapi-token-info/usdapi-token-economics/faqs/what-is-the-api-token.md)
-    * [Why does API stand out?](usdapi-token-info/usdapi-token-economics/faqs/why-does-api-stand-out.md)
-    * [What does API mean for the crypto industry?](usdapi-token-info/usdapi-token-economics/faqs/what-does-api-mean-for-the-crypto-industry.md)
+* [🅰 $API Smart Contract Address](usdapi-token-info/usdapi-smart-contract-address.md)
+* [🪙 Token Economics](usdapi-token-info/token-economics/README.md)
+  * [Token Utilities](usdapi-token-info/token-economics/token-utilities.md)
+  * [Token Distribution](usdapi-token-info/token-economics/token-distribution.md)
+  * [Dune Analysis](usdapi-token-info/token-economics/dune-analysis.md)
+  * [Investors](usdapi-token-info/token-economics/investors.md)
+  * [FAQs](usdapi-token-info/token-economics/faqs/README.md)
+    * [What is API?](usdapi-token-info/token-economics/faqs/what-is-api.md)
+    * [How do APIs work?](usdapi-token-info/token-economics/faqs/how-do-apis-work.md)
+    * [What is the API token?](usdapi-token-info/token-economics/faqs/what-is-the-api-token.md)
+    * [Why does API stand out?](usdapi-token-info/token-economics/faqs/why-does-api-stand-out.md)
+    * [What does API mean for the crypto industry?](usdapi-token-info/token-economics/faqs/what-does-api-mean-for-the-crypto-industry.md)
 * [📈 Get $API Token](usdapi-token-info/get-usdapi-token.md)
 * [⬆ Listed Exchanges](usdapi-token-info/listed-exchanges.md)
 
 ## 🤝 Get In Touch
 
 * [🥰 Contact Us](get-in-touch/contact-us.md)
-* [FAQ](get-in-touch/faq.md)
+* [❓ FAQ](get-in-touch/faq.md)
 
 ## 📖 Docs
 

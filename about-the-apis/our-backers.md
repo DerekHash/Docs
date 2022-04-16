@@ -1,8 +1,12 @@
 # Our Backers
 
-{% embed url="https://www.smocapital.net" %}
-
-{% embed url="https://exnetworkcapital.com" %}
+* [SMO Capital ](https://www.smocapital.net)
+* [AVstar Capital ](https://www.avstarcapital.net)
+* [Exnetwork Capital ](https://exnetworkcapital.com)
+* Moonwhale Ventures&#x20;
+* Waterdrip Capital
+* FBG Capital&#x20;
+* Master Ventures
 
 {% embed url="https://moonwhale.ventures" %}
 

@@ -8,9 +8,9 @@ description: >-
 
 ### Supported Wallets
 
-​[**MetaMask**](https://metamask.io)**​**
+## Ethereum&#x20;
 
-**​**[**Binance Chain Wallet**](https://www.binance.com/en/wallet-direct)
+​[**MetaMask**](https://metamask.io)**​**
 
 ****[**Ethereum Wallet**](https://ethereum.org/zh/wallets/)****
 
@@ -33,4 +33,20 @@ description: >-
 **​**[**SafePal**](https://safepal.io)****
 
 ****
+
+## **BNB Chain**
+
+[**Binance Chain Wallet**](https://www.binance.com/en/wallet-direct)
+
+
+
+## Polygon&#x20;
+
+
+
+## Solana
+
+
+
+## Near
 
