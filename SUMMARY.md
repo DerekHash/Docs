@@ -13,20 +13,23 @@
 ## 🍦 Products
 
 * [🔍 Hook](products/hook/README.md)
-  * [Features](products/hook/features/README.md)
-    * [Collections Trending](products/hook/features/collections-trending.md)
-    * [Calendar](products/hook/features/calendar.md)
-    * [Forum](products/hook/features/forum.md)
-    * [Transaction Feed](products/hook/features/transaction-feed.md)
-    * [Wallet Analysis](products/hook/features/wallet-analysis.md)
-    * [Watch List](products/hook/features/watch-list.md)
+  * [Product Features](products/hook/product-features/README.md)
+    * [Calendar](products/hook/product-features/calendar.md)
+    * [Forum](products/hook/product-features/forum.md)
+    * [Transaction Feed](products/hook/product-features/transaction-feed.md)
+    * [Wallet Analysis](products/hook/product-features/wallet-analysis.md)
+    * [Watch List](products/hook/product-features/watch-list.md)
+    * [Collections Trending](products/hook/product-features/collections-trending.md)
 * [RSS](products/rss/README.md)
   * [Intro](products/rss/intro.md)
 * [API Playground](products/api-playground.md)
 
-## 🤓 Guide
+## 🤓 Academy
 
-* [Definitions & Terms](guide/definitions-and-terms.md)
+* [On-Chain Glossary](academy/on-chain-glossary/README.md)
+  * [NFT ](academy/on-chain-glossary/nft.md)
+  * [DeFi ](academy/on-chain-glossary/defi.md)
+  * [Game Fi](academy/on-chain-glossary/game-fi.md)
 
 ## ℹ $API Token Info
 
@@ -48,6 +51,7 @@
 ## 🤝 Get In Touch
 
 * [🥰 Contact Us](get-in-touch/contact-us.md)
+* [FAQ](get-in-touch/faq.md)
 
 ## 📖 Docs
 
