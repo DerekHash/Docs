@@ -1,10 +1,10 @@
-# RSS
+# Twitter RSS
 
 {% hint style="info" %}
 This section is under development and soon will be released. Please us on [social media](../../get-in-touch/contact-us.md) for the latest information.
 {% endhint %}
 
-### What is an RSS feed?&#x20;
+## What is an RSS feed?&#x20;
 
 It’s a technology that has influenced many modern internet tools you’re familiar with, and its streamlined, algorithm-free format could make it your following great tool for reading what you want online.
 
@@ -17,9 +17,9 @@ As internet content became more complex, RSS files quickly adopted images, video
 
 
 
-### Our Twitter RSS feed
+## Our Twitter RSS feed
 
-* Customized your media content to read
+* Customized your Twitter content to read
 
 We are always looking for ways to make it easier for people to receive the latest NFT information, to build and participate in an efficient community that allows users to earn income on the platform, and preferably everyone to hang out on the channel.
 
