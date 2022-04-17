@@ -1,10 +1,10 @@
 ---
 description: >-
-  APIs Playground build datalake infrastructure to indexing blokchain structure,
-  semi-structure and unstructured data as the Web3 backbone
+  API Playground builds data lake infrastructure to index blockchain structure,
+  semi-structured and unstructured data as the Web3 backbone
 ---
 
-# ☁ DataLake
+# ❄ Data Lake
 
 A data lake is a method of storing data in a natural format in a system or repository that helps to configure data in various schema and structured forms, usually as object blocks or files. The main idea of a data lake is the unified storage of all data in the enterprise, transforming it from raw data  to target data for various tasks such as reporting, visualization, analytics and machine learning. Data in a data lake includes structured data (relational database data), semi-structured data (CSV, XML, JSON, etc.), unstructured data (emails, documents, PDFs) and binary data (images, audio, video), resulting in a centralized data store that holds all forms of data.
 

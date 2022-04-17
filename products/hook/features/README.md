@@ -1,19 +1,16 @@
 ---
-description: >-
-  Hook, A Dashboard for the latest hot NFT collections and access in-depth
-  analytics for all blockchain projects.
+description: Follow our handy guides to get started on the basics as quickly as possible.
 ---
 
 # Get Started
 
-Follow our handy guides to get started on the basics as quickly as possible:
+## Product Overview&#x20;
 
+Hook is a blockchain data and intelligence provider that generates innovative on-chain metrics and tools for digital asset stakeholders.
 
+{ insert product picture }
 
-* Product Overview&#x20;
-* Features Description&#x20;
-
-
+## Features Description&#x20;
 
 ### Trending Collections
 
@@ -21,23 +18,17 @@ We sync our data directly from the blockchain, polling every second for the late
 
 Our [**Trending**](https://beta.theapis.xyz/#/trending) page will keep you up to date with the top-selling collections.
 
-### Calendar
+### Calendar Alert
 
 Create your own unique drop calendar and never miss an NFT drop from your favorite creators. Add customized alerts to receive reminders to minutes, hours, or days before.
-
-
 
 ### Transaction  Feed
 
 Throughout the site, we provide users with easily readable, live feeds of mints, orders, and transfers.
 
-
-
 ### Wallet  Analysis
 
 You can view ERC721 mint and order history going back years for any wallet.
-
-
 
 ### Watch  List
 

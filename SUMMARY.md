@@ -15,9 +15,9 @@
     * [Calendar](products/hook/features/calendar.md)
     * [Collections Trending](products/hook/features/collections-trending.md)
     * [Watch List](products/hook/features/watch-list.md)
-* [RSS](products/rss/README.md)
-  * [Intro](products/rss/intro.md)
-* [☁ DataLake](products/datalake.md)
+  * [RSS](products/hook/rss.md)
+  * [Chatting /w Community](products/hook/chatting-w-community.md)
+* [❄ Data Lake](products/data-lake.md)
 
 ## 🤓 Academy
 
